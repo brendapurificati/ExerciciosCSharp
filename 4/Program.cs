@@ -21,7 +21,6 @@ namespace exercicio4
             double distancia = tempo*velocidade;
             double litros_usados = distancia/12;
             Console.WriteLine($"Tempo: {tempo}\nVelocidade média: {velocidade}\nDistância: {distancia}\nLitros usados: {litros_usados}.");
-
         }
     }
 }
